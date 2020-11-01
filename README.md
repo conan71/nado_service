@@ -1,0 +1,2 @@
+# nado_service
+springcloud 部署的微服务后端，为dataview提供数据中转传播服务，为其他前端项目提供基础数据集成数据库crud服务，和消息服务
